@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* aqui borras todos los margenes y los rellenos por default */
+    font-family: 'Encode Sans', sans-serif;
+}
+
+/* hallo this is a comment in css */
+a {
+    text-decoration: none;
+    color: #031d5b;
+    font-weight: 700;
+    font-size: 1rem;
+}
